@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+bin/
+Debug/
+Release/
+x64/
